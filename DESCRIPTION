@@ -1,0 +1,10 @@
+Package: OpinionPolling
+Type: Package
+Title: A Model-free Framework for Evaluating the Reliability of a New Device with Multiple Imperfect Reference Standards
+Version: 0.1.0
+Author: Qi Yu
+Maintainer: Qi Yu <qi.yu2@emory.edu>
+Description: A Model-free Framework for Evaluating the Reliability of a New Device with Multiple Imperfect Reference Standard.
+License: GPL-3.0
+Encoding: UTF-8
+LazyData: true
