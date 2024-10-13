@@ -4,7 +4,7 @@ A common practice for establishing the reliability of a new computer-aided diagn
 
 ## Installation
 
-You can install the development version of SLCARE like so:
+You can install the development version of OpinionPolling like so:
 
 ``` r
 if (!require("pak", quietly = TRUE))
